@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'EB Garamond', serif;
+}
+
+html {
+    font-size: 62.5%;
+}
